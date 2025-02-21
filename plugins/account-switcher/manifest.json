@@ -1,0 +1,14 @@
+{
+    "name": "Account Switcher",
+    "description": "Switch accounts easily",
+    "authors": [
+        {
+            "name": "Taimoor-Tariq",
+            "id": "220161488516546561"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
